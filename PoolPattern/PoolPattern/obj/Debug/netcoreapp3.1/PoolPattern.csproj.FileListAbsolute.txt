@@ -1,0 +1,13 @@
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.exe
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.deps.json
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.runtimeconfig.json
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.runtimeconfig.dev.json
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.dll
+C:\Users\best\source\repos\PoolPattern\PoolPattern\bin\Debug\netcoreapp3.1\PoolPattern.pdb
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.csprojAssemblyReference.cache
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.AssemblyInfoInputs.cache
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.AssemblyInfo.cs
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.csproj.CoreCompileInputs.cache
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.dll
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.pdb
+C:\Users\best\source\repos\PoolPattern\PoolPattern\obj\Debug\netcoreapp3.1\PoolPattern.genruntimeconfig.cache

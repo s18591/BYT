@@ -1,0 +1,43 @@
+commit 70a4a2e1fdd59dde8f9138dfda874d418cbead4c
+Merge: 5b9b807 67f665a
+Author: Mykhailo <s18591@pjwstk.edu.pl>
+Date:   Wed Dec 23 09:08:55 2020 +0200
+
+    final commit
+
+commit 67f665a671137c6311190d5622c487df318885fb
+Author: Mykhailo <s18591@pjwstk.edu.pl>
+Date:   Wed Dec 23 09:06:24 2020 +0200
+
+    4th commit
+
+ test2.txt.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 5b9b807550966d88d337439d4e85661481430d8f
+Author: Mykhailo <s18591@pjwstk.edu.pl>
+Date:   Wed Dec 23 09:03:02 2020 +0200
+
+    Third commit
+
+ test2.txt.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 279d74789e0cb22a113602e73d46d8ef559248d1
+Author: Mykhailo <s18591@pjwstk.edu.pl>
+Date:   Wed Dec 23 08:57:41 2020 +0200
+
+    Second commit
+
+ test.txt.txt  |  1 +
+ test2.txt.txt | 27 +++++++++++++++++++++++++++
+ 2 files changed, 28 insertions(+)
+
+commit e7274e9975c716ab964bcd0ea6dac2493f6b2a7d
+Author: Mykhailo <s18591@pjwstk.edu.pl>
+Date:   Wed Dec 23 08:56:39 2020 +0200
+
+    First commit
+
+ test.txt.txt | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
